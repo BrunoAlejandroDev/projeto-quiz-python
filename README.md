@@ -98,9 +98,13 @@ A arquitetura do projeto permite adicionar novas matérias de forma muito simple
 ## 🎯 Próximos Passos
 
 O desenvolvimento deste projeto é contínuo. As próximas funcionalidades planejadas são:
+
 [ ] Suporte a Sub-temas: Permitir que uma matéria tenha categorias internas.
+
 [ ] Randomização: Embaralhar a ordem das perguntas e/ou das alternativas a cada jogo.
+
 [ ] Sistema de Ranking: Salvar as pontuações em um arquivo para criar um ranking de jogadores.
+
 [ ] Testes Unitários: Implementar testes para garantir a estabilidade do código.
 
 ## 👨‍💻 Autor
