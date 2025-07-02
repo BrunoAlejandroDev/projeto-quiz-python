@@ -79,3 +79,4 @@ def começar_jogo(materia: str):
     print('\n====== Detalhes do Quiz ======')
     print(f'Pontuação Final: {pontuacao}')
     print(f'Respostas Erradas: {respostas_erradas}')
+    time.sleep(3)
