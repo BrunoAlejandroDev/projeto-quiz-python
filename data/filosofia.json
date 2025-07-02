@@ -1,0 +1,57 @@
+[
+    {
+        "enunciado" : "Socrates nunca escreveu nada. Tudo o que se sabe sobre ele provem de seus discipulos, como Platao e Xenofonte. Socrates costumava dialogar nas pracas de Atenas, fazendo perguntas que levavam seus interlocutores a repensar suas certezas. O metodo socratico consistia principalmente em:", 
+        "alternativas" : {
+            "A" : "oferecer respostas definitivas as grandes questoes filosoficas.", 
+            "B" : "utilizar a retorica para convencer os cidadaos de sua propria ignorancia.",
+            "C" : "aplicar o conhecimento cientifico como forma de evidenciar verdades absolutas.",
+            "D" : "realizar dialogos criticos para questionar conceitos e estimular o autoconhecimento.",
+            "E" : "transmitir conhecimentos prontos a seus discipulos por meio de discursos publicos."
+        },
+        "resposta" : "D"
+    },
+    {
+        "enunciado" : "Durante a democracia ateniense, Socrates foi acusado de corromper a juventude e nao reconhecer os deuses da cidade, sendo condenado a morte. Sua postura diante do julgamento e relatada na obra Apologia de Socrates, de Platao. A condenacao de Socrates revela um conflito entre:", 
+        "alternativas" : {
+            "A" : "a filosofia critica e a manutencao da ordem tradicional.",
+            "B" : "o direito dos cidadaos e a tirania aristocratica.",
+            "C" : "a religiao politeista e a ciencia empirica.",
+            "D" : "os valores democraticos e a escravidao institucionalizada.",
+            "E" : "a racionalidade filosofica e a supersticao popular."
+        },
+        "resposta" : "A"
+    },
+    {
+        "enunciado": "Ao escrever 'O Príncipe', Nicolau Maquiavel analisou a política de forma pragmática, observando como os governantes de sua época agiam para conquistar e manter o poder. Ele argumentou que as ações de um príncipe deveriam ser julgadas por seus resultados e pela estabilidade do Estado, e não por uma moralidade religiosa ou idealizada.\n\nA análise política de Maquiavel, conforme o texto, rompe com a tradição ao:",
+        "alternativas": {
+            "A": "subordinar o poder do Estado à autoridade da Igreja.",
+            "B": "idealizar um governo perfeito baseado em virtudes divinas e utópicas.",
+            "C": "analisar o poder político com base na realidade efetiva e na pragmática, separando-o da moralidade tradicional.",
+            "D": "propor um modelo de governo democrático e participativo para a Itália renascentista.",
+            "E": "condenar o uso da força e da astúcia como ferramentas para a manutenção do poder."
+        },
+        "resposta": "C"
+    },
+    {
+        "enunciado": "Em sua busca por um fundamento seguro para o conhecimento, René Descartes decidiu duvidar de tudo que pudesse ser posto em dúvida: as informações dos sentidos, as verdades matemáticas e até mesmo a existência do mundo exterior. Contudo, ao duvidar, ele encontrou uma certeza inabalável: a de sua própria existência como ser pensante.\n\nEsse ponto de partida do pensamento cartesiano, conhecido como 'Cogito, ergo sum' (Penso, logo existo), tem como fundamento a ideia de que:",
+        "alternativas": {
+            "A": "todo o conhecimento verdadeiro tem origem na experiência sensorial.",
+            "B": "a certeza da existência é garantida pela razão, e não pelos sentidos.",
+            "C": "Deus é uma ilusão necessária para garantir a ordem social.",
+            "D": "a dúvida é o estado final da filosofia, sendo impossível alcançar qualquer verdade.",
+            "E": "o mundo material é a única realidade existente e comprovável."
+        },
+        "resposta": "B"
+    },
+    {
+        "enunciado": "Na Alegoria da Caverna, Platão descreve prisioneiros acorrentados desde a infância, que só conseguem ver as sombras de objetos projetadas na parede da caverna. Para eles, essas sombras são a única realidade. Se um prisioneiro fosse libertado e arrastado para fora, a luz do sol o ofuscaria, mas, aos poucos, ele se acostumaria e veria o mundo real, compreendendo que as sombras eram meras cópias imperfeitas.\n\nA Alegoria da Caverna, utilizada por Platão, ilustra a:",
+        "alternativas": {
+            "A": "valorização do senso comum como a forma mais autêntica de conhecimento.",
+            "B": "defesa de um regime político onde a tirania é justificada para manter a ordem.",
+            "C": "jornada da alma do mundo sensível (ignorância, aparências) para o mundo inteligível (conhecimento verdadeiro).",
+            "D": "impossibilidade de o ser humano conhecer a verdade absoluta, restando-lhe apenas as opiniões.",
+            "E": "superioridade do conhecimento prático e empírico sobre a especulação teórica."
+        },
+        "resposta": "C"
+    }
+]

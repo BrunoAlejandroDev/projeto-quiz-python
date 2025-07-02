@@ -1,0 +1,56 @@
+[
+    {
+        "enunciado": "A Revolução Francesa, ocorrida em 1789, foi um marco na história ocidental. Qual dos seguintes eventos é considerado o estopim da revolução?",
+        "alternativas": {
+            "A": "A convocação dos Estados Gerais.",
+            "B": "A Queda da Bastilha.",
+            "C": "A execução do rei Luís XVI.",
+            "D": "O Reinado do Terror."
+        },
+        "resposta": "B"
+    },
+    {
+        "enunciado": "Durante o Estado Novo (1937-1945), o governo de Getúlio Vargas utilizou amplamente o Departamento de Imprensa e Propaganda (DIP) para exercer censura sobre os meios de comunicação e, ao mesmo tempo, promover a imagem do presidente como 'pai dos pobres' e líder da nação. Festas cívicas, programas de rádio e materiais didáticos eram usados para exaltar o trabalho, o nacionalismo e a figura de Vargas.\n\nA atuação do DIP, conforme descrito no texto, tinha como principal objetivo:",
+        "alternativas": {
+            "A": "promover a diversidade de partidos políticos e o debate democrático.",
+            "B": "construir uma imagem positiva e centralizadora do líder e do governo, utilizando a propaganda e a censura.",
+            "C": "incentivar a liberdade de imprensa e o pensamento crítico na sociedade brasileira.",
+            "D": "abrir a economia brasileira para o capital estrangeiro sem restrições.",
+            "E": "valorizar as tradições democráticas e liberais herdadas da Primeira República."
+        },
+        "resposta": "B"
+    },
+    {
+        "enunciado": "A Revolução Industrial, iniciada na Inglaterra no século XVIII, transformou radicalmente os métodos de produção e as relações sociais. A produção artesanal foi substituída pela maquinofatura, e uma nova classe social, o proletariado urbano, surgiu em condições de trabalho frequentemente precárias, com longas jornadas e baixos salários.\n\nDe acordo com o texto, uma das principais consequências sociais da Revolução Industrial foi:",
+        "alternativas": {
+            "A": "o fortalecimento da estrutura de produção feudal no campo.",
+            "B": "a diminuição da desigualdade social entre as classes.",
+            "C": "a formação de uma classe operária urbana e o surgimento de novas tensões sociais entre burguesia e proletariado.",
+            "D": "a redução drástica da poluição ambiental nas cidades industriais.",
+            "E": "o estabelecimento imediato de leis trabalhistas universais para a proteção dos operários."
+        },
+        "resposta": "C"
+    },
+    {
+        "enunciado": "Após a Segunda Guerra Mundial, o mundo se viu dividido em dois blocos ideológicos antagônicos: um liderado pelos Estados Unidos, defensor do capitalismo, e outro pela União Soviética, defensora do socialismo. Esse período, que durou até o final da década de 1980, ficou conhecido como Guerra Fria.\n\nUma característica geopolítica fundamental do período da Guerra Fria foi:",
+        "alternativas": {
+            "A": "um conflito militar direto e contínuo entre os exércitos dos EUA e da URSS.",
+            "B": "uma aliança pacífica entre as duas superpotências para promover o desenvolvimento global.",
+            "C": "a expansão do colonialismo europeu sobre os continentes africano e asiático.",
+            "D": "a disputa por hegemonia global através de corridas armamentista e espacial, e por influência em conflitos regionais.",
+            "E": "a completa ausência de conflitos armados em qualquer parte do mundo."
+        },
+        "resposta": "D"
+    },
+    {
+        "enunciado": "O período entre 1968 e 1973 no Brasil foi marcado por altíssimas taxas de crescimento do Produto Interno Bruto (PIB), ficando conhecido como 'Milagre Econômico'. O regime militar utilizou esse crescimento como propaganda de um 'Brasil Grande', baseado em grandes obras, endividamento externo e incentivo a empresas multinacionais.\n\nApesar do crescimento econômico exaltado pela propaganda, uma das principais contradições socioeconômicas desse período foi:",
+        "alternativas": {
+            "A": "a distribuição de renda mais justa e a diminuição da desigualdade social.",
+            "B": "a concentração de renda, o aumento da dívida externa e a repressão aos movimentos sindicais.",
+            "C": "o foco no desenvolvimento de uma indústria nacional autônoma e sem capital estrangeiro.",
+            "D": "a priorização de políticas de conservação ambiental e desenvolvimento sustentável.",
+            "E": "o fortalecimento da democracia e a ampliação das liberdades civis."
+        },
+        "resposta": "B"
+    }
+]
